@@ -32,11 +32,11 @@ let main () =
       let pre_filtered_list ~key ~data target =
         let readin = In_channel.read_all "/a/zzz/group/yyy/readonly/scripts/books_CA/2016-12-01/depo_data.csv" in
         (* Core.Std.printf "Hi %s\n%!" readin *)
-        let bny_data = String.split readin ~on:',' in
-        let sym = List.nth_exn bny_data 1 in
-        let c_date = List.nth_exn bny_data 2 in
+        let depo_data = String.split readin ~on:',' in
+        let sym = List.nth_exn depo_data 1 in
+        let c_date = List.nth_exn depo_data 2 in
         let uniq_date = Set.of_list ~comparator:Date.comparator uniq_date in
-        let ttype = List.nth_exn bny_data 3 in
+        let ttype = List.nth_exn depo_data 3 in
         List.append target [List.append [] data]
       in
       Hashtbl.fold hashtable ~init:[] ~f:filtered_list
@@ -106,7 +106,7 @@ let find_el t ~f =
     List.iter list ~f:(fun  -> fprintf outro "%d\n" x);
     Out_channel.close outro
 
-(* List.iter bny_data ~f:(fun x -> Core.Std.printf "%s\n%!" x) 
+(* List.iter depo_data ~f:(fun x -> Core.Std.printf "%s\n%!" x) 
 * 
 * let first_elem = List.hd db_data in 
 * match first_elem with 
