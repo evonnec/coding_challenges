@@ -1,6 +1,7 @@
-# coding_challenges  
+## coding_challenges  
   
-- here's a collection of coding challenges that i've implemented over the years  
-- each folder contains the submissions and input for a different challenge from a different company
+- a collection of coding challenges that i've implemented  
+- each folder contains the submissions and in some cases, input
+- there are also some coding excerpts 
 
-please reach out to discuss, thanks for visiting
+thanks for visiting

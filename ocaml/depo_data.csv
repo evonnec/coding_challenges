@@ -1,0 +1,338 @@
+aaCounter,Symbol,bClosed on Date,dTransaction Type,cBooks to Open on Date,eReason,hCountry of Incorporation,'gDR CUSIP,iReport Timestamp,jDepo
+     1,ATHJY,2016-12-02,DR Issuance,To Be Announced,Corporate Action - Offshore Offering (non-US registrations),Australia,'037183100,2016-12-02 09:01:45.363000000,DEPO1
+     2,WNXDY,2016-12-02,DR Issuance,To Be Announced,Corporate Action,Germany,'97315H108,2016-12-02 09:01:45.363000000,DEPO1
+     3,BPXXY,2016-12-01,DR Issuance,To Be Announced,Corporate Action - Name Change,Italy,'059471102,2016-12-02 09:01:45.363000000,DEPO1
+     4,MMETY,2016-12-01,DR Issuance,To Be Announced,Corporate Action,Hong Kong,'60369A106,2016-12-02 09:01:45.363000000,DEPO1
+     5,IRCP,2016-11-30,DR Cancellation,To Be Announced,Corporate Action - Reverse Split,Argentina,'463588103,2016-12-02 09:01:45.363000000,DEPO1
+     6,IRCP,2016-11-30,DR Issuance,To Be Announced,Corporate Action - Reverse Split,Argentina,'463588103,2016-12-02 09:01:45.363000000,DEPO1
+     7,BKHYY,2016-11-29,DR Issuance,2016-12-05,Dividend Record Date Conflict,Israel,'062510300,2016-12-02 09:01:45.363000000,DEPO1
+     8,EPIHY,2016-11-29,DR Cancellation,To Be Announced,Termination of DR Facility,Bermuda,'294246103,2016-12-02 09:01:45.363000000,DEPO1
+    14,PHST,2016-11-29,DR Cancellation,To Be Announced,Suspension of Trading,Russia,'717140206,2016-12-02 09:01:45.363000000,DEPO1
+    19,BMDPY,2016-11-28,DR Cancellation,To Be Announced,Corporate Action - Reverse Split,Italy,'05951A303,2016-12-02 09:01:45.363000000,DEPO1
+    20,BMDPY,2016-11-28,DR Issuance,To Be Announced,Corporate Action - Reverse Split,Italy,'05951A303,2016-12-02 09:01:45.363000000,DEPO1
+    21,CAIXY,2016-11-25,DR Issuance,2016-12-05,Corporate Action - Stock Dividend,Spain,'12803K109,2016-12-02 09:01:45.363000000,DEPO1
+    22,DTTLY,2016-11-25,DR Issuance,2016-12-05,Corporate Action - Stock Dividend,South Africa,'23812J108,2016-12-02 09:01:45.363000000,DEPO1
+    23,PTJSY,2016-11-25,DR Issuance,To Be Announced,Corporate Action - Rights Issue,Indonesia,'69369T106,2016-12-02 09:01:45.363000000,DEPO1
+    26,BOALY,2016-11-22,DR Issuance,To Be Announced,Corporate Action - Rights Issue,Australia,'099514101,2016-12-02 09:01:45.363000000,DEPO1
+    27,PKREY,2016-11-22,DR Cancellation,To Be Announced,Corporate Action,Thailand,'74441Y107,2016-12-02 09:01:45.363000000,DEPO1
+    28,RSVXY,2016-11-22,DR Issuance,To Be Announced,Depositary Discretion,Spain,'76010T104,2016-12-02 09:01:45.363000000,DEPO1
+    31,HADSY,2016-11-21,DR Cancellation,To Be Announced,Termination of DR Facility,Israel,'40409T208,2016-12-02 09:01:45.363000000,DEPO1
+    32,CQPTY,2016-11-18,DR Cancellation,To Be Announced,Corporate Action - Capital Restructuring,Israel,'19516Q208,2016-12-02 09:01:45.363000000,DEPO1
+    33,CQPTY,2016-11-18,DR Issuance,To Be Announced,Corporate Action - Capital Restructuring,Israel,'19516Q208,2016-12-02 09:01:45.363000000,DEPO1
+    34,PKRKY,2016-11-18,DR Issuance,To Be Announced,Corporate Action - Rights Issue,Indonesia,'74442M102,2016-12-02 09:01:45.363000000,DEPO1
+    37,IMPZY,2016-11-17,DR Issuance,2016-12-27,Corporate Action - Offshore Offering (non-US registrations),France,'45321V108,2016-12-02 09:01:45.363000000,DEPO1
+    42,MPSYY,2016-11-16,DR Issuance,2016-12-27,Certification Required,Germany,'617760103,2016-12-02 09:01:45.363000000,DEPO1
+    43,EQSHY,2016-11-16,DR Issuance,To Be Announced,Corporate Action - Rights Issue,South Africa,'302257100,2016-12-02 09:01:45.363000000,DEPO1
+    45,HLSPY,2016-11-14,DR Issuance,To Be Announced,Corporate Action - Rights Issue,Sweden,'423281104,2016-12-02 09:01:45.363000000,DEPO1
+    46,FIVE,2016-11-14,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,The Netherlands,'98387E205,2016-12-02 09:01:45.363000000,DEPO1
+    47,LRTYY,2016-11-11,DR Cancellation,To Be Announced,Termination of DR Facility,Australia,'53117V209,2016-12-02 09:01:45.363000000,DEPO1
+    48,KUIRY,2016-11-10,DR Cancellation,To Be Announced,Corporate Action - (M&A),Switzerland,'501264105,2016-12-02 09:01:45.363000000,DEPO1
+    49,KUIRY,2016-11-10,DR Issuance,To Be Announced,Corporate Action - (M&A),Switzerland,'501264105,2016-12-02 09:01:45.363000000,DEPO1
+    50,MMETY,2016-11-10,DR Issuance,To Be Announced,Corporate Action - Rights Issue,Hong Kong,'60369A106,2016-12-02 09:01:45.363000000,DEPO1
+    51,MEOAY,2016-11-08,DR Cancellation,To Be Announced,Corporate Action,Australia,'55276X108,2016-12-02 09:01:45.363000000,DEPO1
+    52,MEOAY,2016-11-08,DR Issuance,To Be Announced,Corporate Action,Australia,'55276X108,2016-12-02 09:01:45.363000000,DEPO1
+    53,GRVY,2016-11-07,DR Issuance,To Be Announced,Certification Required,Korea,'38911N206,2016-12-02 09:01:45.363000000,DEPO1
+    54,SNMRY,2016-11-07,DR Issuance,2016-12-06,Corporate Action - Capital Restructuring,Italy,'78460A106,2016-12-02 09:01:45.363000000,DEPO1
+    61,SERTY,2016-11-04,DR Issuance,To Be Announced,Dividend Record Date Conflict,United Kingdom,'78484L104,2016-12-02 09:01:45.363000000,DEPO1
+    62,NGELY,2016-11-03,DR Cancellation,To Be Announced,Corporate Action - Capital Restructuring,Australia,'644556102,2016-12-02 09:01:45.363000000,DEPO1
+    63,NGELY,2016-11-03,DR Issuance,To Be Announced,Corporate Action - Capital Restructuring,Australia,'644556102,2016-12-02 09:01:45.363000000,DEPO1
+    64,PSPRY,2016-11-03,DR Cancellation,To Be Announced,Delisted from Local Market,Cayman Islands,'70469K102,2016-12-02 09:01:45.363000000,DEPO1
+    65,PSPRY,2016-11-03,DR Issuance,To Be Announced,Delisted from Local Market,Cayman Islands,'70469K102,2016-12-02 09:01:45.363000000,DEPO1
+    66,CVGFY,2016-11-01,DR Cancellation,To Be Announced,Termination of DR Facility,Mйxico,'21986V204,2016-12-02 09:01:45.363000000,DEPO1
+    67,IFJPY,2016-11-01,DR Issuance,2016-12-05,Certification Required,United Kingdom,'45672B305,2016-12-02 09:01:45.363000000,DEPO1
+    68,RLGHY,2016-10-28,DR Issuance,To Be Announced,Corporate Action,Singapore,'75954Q100,2016-12-02 09:01:45.363000000,DEPO1
+    69,NVTK,2016-10-24,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Russia,'669888109,2016-12-02 09:01:45.363000000,DEPO1
+    70,TLSYY,2016-10-24,DR Cancellation,To Be Announced,Corporate Action - Successorship,Australia,'87969N204,2016-12-02 09:01:45.363000000,DEPO1
+    71,TLSYY,2016-10-24,DR Issuance,To Be Announced,Corporate Action - Successorship,Australia,'87969N204,2016-12-02 09:01:45.363000000,DEPO1
+    73,DOMT,2016-10-21,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Egypt,'03847E209,2016-12-02 09:01:45.363000000,DEPO1
+    74,PKREY,2016-10-21,DR Issuance,To Be Announced,Corporate Action,Thailand,'74441Y107,2016-12-02 09:01:45.363000000,DEPO1
+    75,SIS,2016-10-21,DR Issuance,To Be Announced,Corporate Action,Taiwan,'82706A102,2016-12-02 09:01:45.363000000,DEPO1
+    76,SIS,2016-10-21,DR Cancellation,To Be Announced,Corporate Action,Taiwan,'82706A102,2016-12-02 09:01:45.363000000,DEPO1
+    77,GCHOY,2016-10-20,DR Issuance,To Be Announced,Dividend Record Date Conflict,Colombia,'40052J101,2016-12-02 09:01:45.363000000,DEPO1
+    78,PIFLY,2016-10-17,DR Cancellation,To Be Announced,Corporate Action - Mandatory Exchange,United Kingdom,'74050U404,2016-12-02 09:01:45.363000000,DEPO1
+    79,PIFLY,2016-10-17,DR Issuance,To Be Announced,Corporate Action - Mandatory Exchange,United Kingdom,'74050U404,2016-12-02 09:01:45.363000000,DEPO1
+    80,CRPFY,2016-10-13,DR Issuance,To Be Announced,Dividend Record Date Conflict,Colombia,'219869302,2016-12-02 09:01:45.363000000,DEPO1
+    82,HKHDY,2016-10-11,DR Cancellation,To Be Announced,Corporate Action - Capital Restructuring,Bermuda,'43367P101,2016-12-02 09:01:45.363000000,DEPO1
+    83,HKHDY,2016-10-11,DR Issuance,To Be Announced,Corporate Action - Capital Restructuring,Bermuda,'43367P101,2016-12-02 09:01:45.363000000,DEPO1
+    84,FP,2016-09-23,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Romania,'34460G106,2016-12-02 09:01:45.363000000,DEPO1
+    85,RBS PR R,2016-09-23,DR Cancellation,To Be Announced,Termination of DR Facility,United Kingdom,'780097747,2016-12-02 09:01:45.363000000,DEPO1
+    86,RBS PR R,2016-09-23,DR Issuance,To Be Announced,Termination of DR Facility,United Kingdom,'780097747,2016-12-02 09:01:45.363000000,DEPO1
+    87,RBS PR T,2016-09-23,DR Cancellation,To Be Announced,Termination of DR Facility,United Kingdom,'780097713,2016-12-02 09:01:45.363000000,DEPO1
+    88,RBS PR T,2016-09-23,DR Issuance,To Be Announced,Termination of DR Facility,United Kingdom,'780097713,2016-12-02 09:01:45.363000000,DEPO1
+    89,AMOV,2016-09-13,DR Cancellation,To Be Announced,Corporate Action - Successorship,Mйxico,'02364W204,2016-12-02 09:01:45.363000000,DEPO1
+    90,AMOV,2016-09-13,DR Issuance,To Be Announced,Corporate Action - Successorship,Mйxico,'02364W204,2016-12-02 09:01:45.363000000,DEPO1
+    91,AMX,2016-09-13,DR Cancellation,To Be Announced,Corporate Action - Successorship,Mйxico,'02364W105,2016-12-02 09:01:45.363000000,DEPO1
+    92,AMX,2016-09-13,DR Issuance,To Be Announced,Corporate Action - Successorship,Mйxico,'02364W105,2016-12-02 09:01:45.363000000,DEPO1
+    95,ARMH,2016-09-05,DR Issuance,To Be Announced,Corporate Action - (M&A),United Kingdom,'042068106,2016-12-02 09:01:45.363000000,DEPO1
+    96,BVZCY,2016-09-05,DR Cancellation,To Be Announced,Termination of DR Facility,Venezuela,'059650101,2016-12-02 09:01:45.363000000,DEPO1
+    97,ARMH,2016-09-02,DR Cancellation,To Be Announced,Corporate Action - (M&A),United Kingdom,'042068106,2016-12-02 09:01:45.363000000,DEPO1
+    98,BJBJY,2016-09-02,DR Issuance,To Be Announced,Depositary Discretion,China,'077251106,2016-12-02 09:01:45.363000000,DEPO1
+    99,GUGHY,2016-09-02,DR Issuance,To Be Announced,Depositary Discretion,Hong Kong,'40065Q209,2016-12-02 09:01:45.363000000,DEPO1
+   100,SJQIY,2016-09-02,DR Cancellation,To Be Announced,Depositary Discretion,China,'81942J109,2016-12-02 09:01:45.363000000,DEPO1
+   101,SJQIY,2016-09-02,DR Issuance,To Be Announced,Depositary Discretion,China,'81942J109,2016-12-02 09:01:45.363000000,DEPO1
+   102,SGOTY,2016-09-02,DR Cancellation,To Be Announced,Depositary Discretion,China,'818902108,2016-12-02 09:01:45.363000000,DEPO1
+   103,SGOTY,2016-09-02,DR Issuance,To Be Announced,Depositary Discretion,China,'818902108,2016-12-02 09:01:45.363000000,DEPO1
+   104,VARXY,2016-09-02,DR Issuance,To Be Announced,Depositary Discretion,Hong Kong,'92224Q109,2016-12-02 09:01:45.363000000,DEPO1
+   105,BVZCY,2016-09-01,DR Issuance,To Be Announced,Termination of DR Facility,Venezuela,'059650101,2016-12-02 09:01:45.363000000,DEPO1
+   106,CGFAY,2016-09-01,DR Issuance,To Be Announced,Termination of DR Facility,Australia,'211214200,2016-12-02 09:01:45.363000000,DEPO1
+   107,LNCGD,2016-09-01,DR Issuance,To Be Announced,Termination of DR Facility,Australia,'532782208,2016-12-02 09:01:45.363000000,DEPO1
+   108,TPIUY,2016-08-30,DR Issuance,To Be Announced,Termination of DR Facility,Brazil,'87262A305,2016-12-02 09:01:45.363000000,DEPO1
+   110,AGXLY,2016-08-25,DR Cancellation,To Be Announced,Corporate Action,Australia,'00845M209,2016-12-02 09:01:45.363000000,DEPO1
+   111,AGXLY,2016-08-25,DR Issuance,To Be Announced,Corporate Action,Australia,'00845M209,2016-12-02 09:01:45.363000000,DEPO1
+   112,MDABY,2016-08-25,DR Issuance,To Be Announced,Delisted from Local Market,Sweden,'58403D102,2016-12-02 09:01:45.363000000,DEPO1
+   113,ZONMY,2016-08-22,DR Issuance,To Be Announced,Termination of DR Facility,Portugal,'669745101,2016-12-02 09:01:45.363000000,DEPO1
+   114,BORZY,2016-08-15,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,Poland,'100092105,2016-12-02 09:01:45.363000000,DEPO1
+   115,CPECY,2016-08-15,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,Zambia,'217622109,2016-12-02 09:01:45.363000000,DEPO1
+   116,ELALY,2016-08-15,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,Israel,'28265H103,2016-12-02 09:01:45.363000000,DEPO1
+   117,THIXY,2016-08-15,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,France,'36118C106,2016-12-02 09:01:45.363000000,DEPO1
+   118,GNWKY,2016-08-15,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,Philippines,'361878101,2016-12-02 09:01:45.363000000,DEPO1
+   119,HACBY,2016-08-15,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,Japan,'404508202,2016-12-02 09:01:45.363000000,DEPO1
+   120,PRGLY,2016-08-15,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,Philippines,'74624G105,2016-12-02 09:01:45.363000000,DEPO1
+   121,RYIMY,2016-08-15,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,The Netherlands,'78029V104,2016-12-02 09:01:45.363000000,DEPO1
+   122,SXTSY,2016-08-15,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,Germany,'78428H102,2016-12-02 09:01:45.363000000,DEPO1
+   123,SOVTY,2016-08-15,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,Portugal,'83540V104,2016-12-02 09:01:45.363000000,DEPO1
+   124,SUGBY,2016-08-15,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,Japan,'869007203,2016-12-02 09:01:45.363000000,DEPO1
+   125,TEPCY,2016-08-15,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,Japan,'88907E108,2016-12-02 09:01:45.363000000,DEPO1
+   126,TYOBY,2016-08-15,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,Japan,'892314204,2016-12-02 09:01:45.363000000,DEPO1
+   129,66XD,2016-08-10,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Egypt,'28106T100,2016-12-02 09:01:45.363000000,DEPO1
+   130,EFID,2016-08-10,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Egypt,'28106T209,2016-12-02 09:01:45.363000000,DEPO1
+   131,TTENY,2016-08-09,DR Issuance,To Be Announced,Termination of DR Facility,Australia,'89853E100,2016-12-02 09:01:45.363000000,DEPO1
+   132,YELGY,2016-08-09,DR Issuance,To Be Announced,Suspension of Trading,United Kingdom,'42868Y108,2016-12-02 09:01:45.363000000,DEPO1
+   133,ATVDY,2016-08-03,DR Issuance,To Be Announced,Corporate Action,Spain,'036726305,2016-12-02 09:01:45.363000000,DEPO1
+   134,FRSHY,2016-08-02,DR Issuance,To Be Announced,Corporate Action,Hong Kong,'35545T104,2016-12-02 09:01:45.363000000,DEPO1
+   135,ONETY,2016-08-02,DR Issuance,To Be Announced,Corporate Action,Cayman Islands,'67102T102,2016-12-02 09:01:45.363000000,DEPO1
+   136,EVOMY,2016-07-29,DR Issuance,To Be Announced,Suspension of Trading,Australia,'29404F107,2016-12-02 09:01:45.363000000,DEPO1
+   137,BEAZY,2016-07-28,DR Issuance,To Be Announced,Corporate Action,Jersey,'07556T109,2016-12-02 09:01:45.363000000,DEPO1
+   138,CIFHY,2016-07-28,DR Issuance,To Be Announced,Suspension of Trading,Cayman Islands,'16890K104,2016-12-02 09:01:45.363000000,DEPO1
+   139,CUGCY,2016-07-28,DR Issuance,To Be Announced,Delisted from Local Market,China,'16948A108,2016-12-02 09:01:45.363000000,DEPO1
+   140,CSCGY,2016-07-28,DR Issuance,To Be Announced,Suspension of Trading,Cayman Islands,'16951P109,2016-12-02 09:01:45.363000000,DEPO1
+   141,DNGYY,2016-07-28,DR Issuance,To Be Announced,Suspension of Trading,Cayman Islands,'257754101,2016-12-02 09:01:45.363000000,DEPO1
+   142,HIIDY,2016-07-28,DR Issuance,To Be Announced,Suspension of Trading,Cayman Islands,'42952W109,2016-12-02 09:01:45.363000000,DEPO1
+   143,MLSPY,2016-07-28,DR Issuance,To Be Announced,Corporate Action - Capital Restructuring,United Kingdom,'585646102,2016-12-02 09:01:45.363000000,DEPO1
+   144,SGXXY,2016-07-28,DR Issuance,To Be Announced,Suspension of Trading,Singapore,'83608A109,2016-12-02 09:01:45.363000000,DEPO1
+   145,ZLIXY,2016-07-28,DR Issuance,To Be Announced,Corporate Action,Spain,'98933N105,2016-12-02 09:01:45.363000000,DEPO1
+   146,CGFAY,2016-07-26,DR Issuance,To Be Announced,Delisted from Local Market,Australia,'211214200,2016-12-02 09:01:45.363000000,DEPO1
+   147,ANFGY,2016-07-25,DR Issuance,To Be Announced,Termination of DR Facility,United Kingdom,'037189107,2016-12-02 09:01:45.363000000,DEPO1
+   148,IINHY,2016-07-21,DR Issuance,To Be Announced,Termination of DR Facility,Hong Kong,'45248T103,2016-12-02 09:01:45.363000000,DEPO1
+   149,HADSY,2016-07-19,DR Issuance,To Be Announced,Termination of DR Facility,Israel,'40409T208,2016-12-02 09:01:45.363000000,DEPO1
+   150,PBMRY,2016-07-01,DR Issuance,To Be Announced,Suspension of Trading,Indonesia,'69367Y107,2016-12-02 09:01:45.363000000,DEPO1
+   152,SLT,2016-06-20,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,India,'85916G108,2016-12-02 09:01:45.363000000,DEPO1
+   153,SLT,2016-06-20,DR Cancellation,To Be Announced,Monitor of Foreign Ownership Limitations,India,'85916G108,2016-12-02 09:01:45.363000000,DEPO1
+   154,SHCL,2016-06-20,DR Cancellation,To Be Announced,Monitor of Foreign Ownership Limitations,India,'87158Q109,2016-12-02 09:01:45.363000000,DEPO1
+   155,SHCL,2016-06-20,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,India,'87158Q109,2016-12-02 09:01:45.363000000,DEPO1
+   157,OSTLY,2016-06-13,DR Issuance,To Be Announced,Suspension of Trading,Australia,'04270T101,2016-12-02 09:01:45.363000000,DEPO1
+   158,SATYY,2016-06-13,DR Issuance,To Be Announced,Corporate Action,Bermuda,'80401R107,2016-12-02 09:01:45.363000000,DEPO1
+   159,RFLXY,2016-06-07,DR Issuance,To Be Announced,Termination of DR Facility,Australia,'757370101,2016-12-02 09:01:45.363000000,DEPO1
+   160,01IS,2016-06-06,DR Issuance,To Be Announced,Termination of DR Facility,Czech Republic,'500459102,2016-12-02 09:01:45.363000000,DEPO1
+   161,KMBNY,2016-06-06,DR Issuance,To Be Announced,Termination of DR Facility,Czech Republic,'500459409,2016-12-02 09:01:45.363000000,DEPO1
+   162,81JK,2016-06-01,DR Issuance,To Be Announced,Depositary Discretion,Russia,'368287108,2016-12-02 09:01:45.363000000,DEPO1
+   163,LGWXY,2016-05-30,DR Issuance,To Be Announced,Termination of DR Facility,Spain,'527261101,2016-12-02 09:01:45.363000000,DEPO1
+   164,CIBEY,2016-05-27,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Egypt,'201712304,2016-12-02 09:01:45.363000000,DEPO1
+   165,41JB,2016-05-24,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Egypt,'201712106,2016-12-02 09:01:45.363000000,DEPO1
+   166,CBKD,2016-05-24,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Egypt,'201712205,2016-12-02 09:01:45.363000000,DEPO1
+   168,FLGZY,2016-05-16,DR Issuance,To Be Announced,Corporate Action,Switzerland,'34379U105,2016-12-02 09:01:45.363000000,DEPO1
+   169,NSEEY,2016-05-12,DR Issuance,To Be Announced,Local Shares - Non Transferrable,Norway,'65651Q107,2016-12-02 09:01:45.363000000,DEPO1
+   170,MOTMY,2016-05-10,DR Issuance,To Be Announced,Termination of DR Facility,Australia,'616346102,2016-12-02 09:01:45.363000000,DEPO1
+   171,GOBPY,2016-05-05,DR Issuance,To Be Announced,Termination of DR Facility,United Kingdom,'37959C106,2016-12-02 09:01:45.363000000,DEPO1
+   174,MSVI LX,2016-04-29,DR Cancellation,To Be Announced,Termination of DR Facility,Taiwan,'619539877,2016-12-02 09:01:45.363000000,DEPO1
+   175,KRI LX,2016-04-25,DR Cancellation,To Be Announced,Termination of DR Facility,India,'488472101,2016-12-02 09:01:45.363000000,DEPO1
+   176,JKXOY,2016-04-20,DR Cancellation,To Be Announced,Termination of DR Facility,United Kingdom,'47758M106,2016-12-02 09:01:45.363000000,DEPO1
+   177,JKXOY,2016-04-20,DR Issuance,To Be Announced,Termination of DR Facility,United Kingdom,'47758M106,2016-12-02 09:01:45.363000000,DEPO1
+   178,KRI LX,2016-04-20,DR Issuance,To Be Announced,Termination of DR Facility,India,'488472101,2016-12-02 09:01:45.363000000,DEPO1
+   181,AFRVY,2016-04-08,DR Issuance,To Be Announced,Termination of DR Facility,South Africa,'00828W109,2016-12-02 09:01:45.363000000,DEPO1
+   183,IINHY,2016-04-08,DR Issuance,To Be Announced,Depositary Discretion,Hong Kong,'45248T103,2016-12-02 09:01:45.363000000,DEPO1
+   184,MRLLY,2016-04-06,DR Issuance,To Be Announced,Suspension of Trading,Jersey,'60283B107,2016-12-02 09:01:45.363000000,DEPO1
+   185,UKRNY,2016-04-06,DR Issuance,To Be Announced,Depositary Discretion,Ukraine,'903727204,2016-12-02 09:01:45.363000000,DEPO1
+   186,RINFY,2016-04-04,DR Issuance,To Be Announced,Termination of DR Facility,Russia,'75523Q102,2016-12-02 09:01:45.363000000,DEPO1
+   187,TTTLY,2016-04-01,DR Issuance,To Be Announced,Termination of DR Facility,Thailand,'Y87296102,2016-12-02 09:01:45.363000000,DEPO1
+   189,LNCGD,2016-03-31,DR Cancellation,To Be Announced,Suspension of Trading,Australia,'532782208,2016-12-02 09:01:45.363000000,DEPO1
+   190,LNCGD,2016-03-31,DR Issuance,To Be Announced,Suspension of Trading,Australia,'532782208,2016-12-02 09:01:45.363000000,DEPO1
+   191,GFI,2016-03-24,DR Issuance,2017-03-27,Corporate Action - Offshore Offering (non-US registrations),South Africa,'38059T106,2016-12-02 09:01:45.363000000,DEPO1
+   192,ITRYY,2016-03-15,DR Issuance,To Be Announced,Termination of DR Facility,Ukraine,'460610108,2016-12-02 09:01:45.363000000,DEPO1
+   193,CTOHY,2016-03-08,DR Issuance,To Be Announced,Termination of DR Facility,Australia,'173062100,2016-12-02 09:01:45.363000000,DEPO1
+   194,ALCYY,2016-03-03,DR Issuance,To Be Announced,Delisted from Local Market,Australia,'01407V108,2016-12-02 09:01:45.363000000,DEPO1
+   195,CVKEY,2016-03-03,DR Issuance,To Be Announced,Delisted from Local Market,China,'16948J109,2016-12-02 09:01:45.363000000,DEPO1
+   196,DCCPY,2016-03-03,DR Issuance,To Be Announced,Delisted from Local Market,Ireland,'23308M102,2016-12-02 09:01:45.363000000,DEPO1
+   197,HOGDY,2016-03-03,DR Issuance,To Be Announced,Delisted from Local Market,Sweden,'434603106,2016-12-02 09:01:45.363000000,DEPO1
+   199,MEYPY,2016-03-03,DR Issuance,To Be Announced,Delisted from Local Market,Ireland,'565118106,2016-12-02 09:01:45.363000000,DEPO1
+   200,PEPFY,2016-03-03,DR Issuance,To Be Announced,Termination of DR Facility,Switzerland,'716746102,2016-12-02 09:01:45.363000000,DEPO1
+   201,PEPFY,2016-03-03,DR Cancellation,To Be Announced,Termination of DR Facility,Switzerland,'716746102,2016-12-02 09:01:45.363000000,DEPO1
+   204,SHFGY,2016-02-25,DR Issuance,To Be Announced,Termination of DR Facility,China,'819423104,2016-12-02 09:01:45.363000000,DEPO1
+   205,SZPRY,2016-02-25,DR Issuance,To Be Announced,Termination of DR Facility,China,'823220108,2016-12-02 09:01:45.363000000,DEPO1
+   206,LGNRY,2016-02-24,DR Issuance,To Be Announced,Termination of DR Facility,Bermuda,'545850109,2016-12-02 09:01:45.363000000,DEPO1
+   209,TKGBY,2016-02-08,DR Cancellation,To Be Announced,Certification Required,Turkey,'900148701,2016-12-02 09:01:45.363000000,DEPO1
+   210,39IS,2016-02-08,DR Cancellation,To Be Announced,Certification Required,Turkey,'900148602,2016-12-02 09:01:45.363000000,DEPO1
+   211,BKESY,2016-01-28,DR Issuance,To Be Announced,Suspension of Trading,Portugal,'059584102,2016-12-02 09:01:45.363000000,DEPO1
+   212,MOTMY,2016-01-26,DR Issuance,To Be Announced,Depositary Discretion,Australia,'616346102,2016-12-02 09:01:45.363000000,DEPO1
+   213,SNKTY,2016-01-25,DR Issuance,To Be Announced,Termination of DR Facility,United Kingdom,'45378C102,2016-12-02 09:01:45.363000000,DEPO1
+   214,ONKMY,2016-01-22,DR Issuance,To Be Announced,Termination of DR Facility,Russia,'654918101,2016-12-02 09:01:45.363000000,DEPO1
+   215,ILMCY,2016-01-14,DR Cancellation,To Be Announced,Delisted from Local Market,Australia,'449395102,2016-12-02 09:01:45.363000000,DEPO1
+   216,ILMCY,2016-01-14,DR Issuance,To Be Announced,Delisted from Local Market,Australia,'449395102,2016-12-02 09:01:45.363000000,DEPO1
+   217,HGVLY,2016-01-11,DR Issuance,To Be Announced,Termination of DR Facility,South Africa,'30050Y101,2016-12-02 09:01:45.363000000,DEPO1
+   218,CSEHY,2016-01-08,DR Issuance,To Be Announced,Termination of DR Facility,Bermuda,'16941W206,2016-12-02 09:01:45.363000000,DEPO1
+   219,DRGHY,2016-01-08,DR Issuance,To Be Announced,Termination of DR Facility,Germany,'26145L104,2016-12-02 09:01:45.363000000,DEPO1
+   220,ONKMY,2015-12-01,DR Issuance,To Be Announced,Corporate Action,Russia,'654918101,2016-12-02 09:01:45.363000000,DEPO1
+   221,JASMY,2015-11-30,DR Issuance,To Be Announced,DR Registration Limitation,Thailand,'47116Q104,2016-12-02 09:01:45.363000000,DEPO1
+   222,DKSHY,2015-11-09,DR Issuance,To Be Announced,Company Request,Switzerland,'25588U100,2016-12-02 09:01:45.363000000,DEPO1
+   223,GOBPY,2015-10-27,DR Issuance,To Be Announced,Suspension of Trading,United Kingdom,'37959C106,2016-12-02 09:01:45.363000000,DEPO1
+   224,NWTLY,2015-09-30,DR Cancellation,To Be Announced,Suspension of Trading,Australia,'65248U207,2016-12-02 09:01:45.363000000,DEPO1
+   225,NWTLY,2015-09-30,DR Issuance,To Be Announced,Suspension of Trading,Australia,'65248U207,2016-12-02 09:01:45.363000000,DEPO1
+   226,DRGHY,2015-09-23,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,Germany,'26145L104,2016-12-02 09:01:45.363000000,DEPO1
+   227,ALCYY,2015-08-28,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,Australia,'01407V108,2016-12-02 09:01:45.363000000,DEPO1
+   228,QCLSY,2015-08-28,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,Germany,'37952W109,2016-12-02 09:01:45.363000000,DEPO1
+   229,IHLHY,2015-08-28,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,Turkey,'451732101,2016-12-02 09:01:45.363000000,DEPO1
+   230,KOZAY,2015-08-28,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,Turkey,'50075G109,2016-12-02 09:01:45.363000000,DEPO1
+   231,NEOEY,2015-08-28,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,Australia,'64050U108,2016-12-02 09:01:45.363000000,DEPO1
+   232,NISUY,2015-08-28,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,Japan,'654620202,2016-12-02 09:01:45.363000000,DEPO1
+   233,TSCUY,2015-08-28,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,Singapore,'67106L105,2016-12-02 09:01:45.363000000,DEPO1
+   234,PLSKY,2015-08-28,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,Poland,'705879104,2016-12-02 09:01:45.363000000,DEPO1
+   235,PRAGY,2015-08-28,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,Germany,'73972Y106,2016-12-02 09:01:45.363000000,DEPO1
+   236,TOKUY,2015-08-28,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,Japan,'889144101,2016-12-02 09:01:45.363000000,DEPO1
+   237,SHXWY,2015-08-28,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,China,'98419K104,2016-12-02 09:01:45.363000000,DEPO1
+   238,ZCILY,2015-08-28,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,Bermuda,'988763108,2016-12-02 09:01:45.363000000,DEPO1
+   239,AFRNY,2015-08-19,DR Cancellation,To Be Announced,Suspension of Trading,United Kingdom,'00830F102,2016-12-02 09:01:45.363000000,DEPO1
+   240,71IN,2015-08-17,DR Cancellation,To Be Announced,Suspension of Trading,Kuwait,'37948V504,2016-12-02 09:01:45.363000000,DEPO1
+   241,GLOB,2015-08-17,DR Cancellation,To Be Announced,Suspension of Trading,Kuwait,'37948V603,2016-12-02 09:01:45.363000000,DEPO1
+   242,AFRNY,2015-08-11,DR Issuance,To Be Announced,Suspension of Trading,United Kingdom,'00830F102,2016-12-02 09:01:45.363000000,DEPO1
+   243,HGVLY,2015-07-27,DR Issuance,To Be Announced,Suspension of Trading,South Africa,'30050Y101,2016-12-02 09:01:45.363000000,DEPO1
+   244,NMPRG,2015-07-02,DR Cancellation,To Be Announced,Monitor of Foreign Ownership Limitations,Marshall Islands,'63938Y100,2016-12-02 09:01:45.363000000,DEPO1
+   245,NMPRG,2015-07-02,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Marshall Islands,'63938Y100,2016-12-02 09:01:45.363000000,DEPO1
+   246,NMPRH,2015-07-02,DR Cancellation,To Be Announced,Monitor of Foreign Ownership Limitations,Marshall Islands,'63938Y308,2016-12-02 09:01:45.363000000,DEPO1
+   247,NMPRH,2015-07-02,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Marshall Islands,'63938Y308,2016-12-02 09:01:45.363000000,DEPO1
+   248,17GK,2015-06-23,DR Issuance,To Be Announced,Company Request,Russia,'58517T100,2016-12-02 09:01:45.363000000,DEPO1
+   249,MFON,2015-06-23,DR Issuance,To Be Announced,Company Request,Russia,'58517T209,2016-12-02 09:01:45.363000000,DEPO1
+   250,QIWI,2015-06-16,DR Issuance,To Be Announced,Certification Required,Cyprus,'74735M108,2016-12-02 09:01:45.363000000,DEPO1
+   251,ASYKY,2015-06-01,DR Cancellation,To Be Announced,Monitor of Foreign Ownership Limitations,Turkey,'046494100,2016-12-02 09:01:45.363000000,DEPO1
+   252,ASYKY,2015-06-01,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Turkey,'046494100,2016-12-02 09:01:45.363000000,DEPO1
+   266,CCOOY,2015-04-24,DR Issuance,To Be Announced,Corporate Action,Venezuela,'15671P704,2016-12-02 09:01:45.363000000,DEPO1
+   268,KMBG LX,2015-04-22,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,India,'50071Q200,2016-12-02 09:01:45.363000000,DEPO1
+   269,DMXTY,2015-04-16,DR Issuance,To Be Announced,Suspension of Trading,Bermuda,'233274109,2016-12-02 09:01:45.363000000,DEPO1
+   271,CSEHY,2015-01-09,DR Issuance,To Be Announced,Suspension of Trading,Bermuda,'16941W206,2016-12-02 09:01:45.363000000,DEPO1
+   272,GZPFY,2014-09-12,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Russia,'36829G107,2016-12-02 09:01:45.363000000,DEPO1
+   273,IRKTY,2014-09-12,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Russia,'46271W104,2016-12-02 09:01:45.363000000,DEPO1
+   274,FBJSY,2014-08-25,DR Cancellation,To Be Announced,Monitor of Foreign Ownership Limitations,Ukraine,'349809103,2016-12-02 09:01:45.363000000,DEPO1
+   275,FBJSY,2014-08-25,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Ukraine,'349809103,2016-12-02 09:01:45.363000000,DEPO1
+   276,71IN,2014-08-14,DR Issuance,To Be Announced,Suspension of Trading,Kuwait,'37948V504,2016-12-02 09:01:45.363000000,DEPO1
+   277,GLOB,2014-08-14,DR Issuance,To Be Announced,Suspension of Trading,Kuwait,'37948V603,2016-12-02 09:01:45.363000000,DEPO1
+   278,AFRVY,2014-08-12,DR Issuance,To Be Announced,Suspension of Trading,South Africa,'00828W109,2016-12-02 09:01:45.363000000,DEPO1
+   279,BKESY,2014-08-12,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,Portugal,'059584102,2016-12-02 09:01:45.363000000,DEPO1
+   280,86PN,2014-08-01,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Russia,'40637J105,2016-12-02 09:01:45.363000000,DEPO1
+   281,HALS,2014-08-01,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Russia,'40637J204,2016-12-02 09:01:45.363000000,DEPO1
+   282,SBER,2014-08-01,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Russia,'80585Y308,2016-12-02 09:01:45.363000000,DEPO1
+   283,38LF,2014-08-01,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Russia,'80585Y407,2016-12-02 09:01:45.363000000,DEPO1
+   284,36GK,2014-08-01,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Russia,'46630Q103,2016-12-02 09:01:45.363000000,DEPO1
+   285,VTBR,2014-08-01,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Russia,'46630Q202,2016-12-02 09:01:45.363000000,DEPO1
+   286,VEDG,2014-07-29,DR Issuance,To Be Announced,Company Request,United Kingdom,'92241T102,2016-12-02 09:01:45.363000000,DEPO1
+   287,LGWXY,2014-07-28,DR Issuance,To Be Announced,Local Shares - Non Transferrable,Spain,'527261101,2016-12-02 09:01:45.363000000,DEPO1
+   290,STPFQ,2013-11-13,DR Issuance,To Be Announced,Suspension of Trading,Cayman Islands,'86800C104,2016-12-02 09:01:45.363000000,DEPO1
+   291,CFHS,2013-11-07,DR Cancellation,To Be Announced,Certification Required,Taiwan,'14915V205,2016-12-02 09:01:45.363000000,DEPO1
+   292,CPED,2013-11-07,DR Cancellation,To Be Announced,Certification Required,Taiwan,'20440Y200,2016-12-02 09:01:45.363000000,DEPO1
+   293,DELT,2013-11-07,DR Cancellation,To Be Announced,Certification Required,Taiwan,'247629306,2016-12-02 09:01:45.363000000,DEPO1
+   294,FEC,2013-11-07,DR Cancellation,To Be Announced,Certification Required,Taiwan,'30733Q707,2016-12-02 09:01:45.363000000,DEPO1
+   295,FARE,2013-11-07,DR Cancellation,To Be Announced,Certification Required,Taiwan,'307331306,2016-12-02 09:01:45.363000000,DEPO1
+   298,MSVI LX,2013-11-07,DR Cancellation,To Be Announced,Certification Required,Taiwan,'619539877,2016-12-02 09:01:45.363000000,DEPO1
+   300,POSD,2013-11-07,DR Cancellation,To Be Announced,Certification Required,Taiwan,'73931M714,2016-12-02 09:01:45.363000000,DEPO1
+   301,PRND,2013-11-07,DR Cancellation,To Be Announced,Certification Required,Taiwan,'74343C872,2016-12-02 09:01:45.363000000,DEPO1
+   302,REAL,2013-11-07,DR Cancellation,To Be Announced,Certification Required,Taiwan,'756063400,2016-12-02 09:01:45.363000000,DEPO1
+   303,RITK,2013-11-07,DR Cancellation,To Be Announced,Certification Required,Taiwan,'767767148,2016-12-02 09:01:45.363000000,DEPO1
+   304,SPC,2013-11-07,DR Cancellation,To Be Announced,Certification Required,Taiwan,'79587U504,2016-12-02 09:01:45.363000000,DEPO1
+   305,SIS,2013-11-07,DR Cancellation,To Be Announced,Certification Required,Taiwan,'82706A102,2016-12-02 09:01:45.363000000,DEPO1
+   306,SUPD,2013-11-07,DR Cancellation,To Be Announced,Certification Required,Taiwan,'86764M403,2016-12-02 09:01:45.363000000,DEPO1
+   307,TAT,2013-11-07,DR Cancellation,To Be Announced,Certification Required,Taiwan,'876661406,2016-12-02 09:01:45.363000000,DEPO1
+   309,WBDD,2013-11-07,DR Cancellation,To Be Announced,Certification Required,Taiwan,'972657209,2016-12-02 09:01:45.363000000,DEPO1
+   311,BSPDY,2013-10-23,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,Indonesia,'69368Y106,2016-12-02 09:01:45.363000000,DEPO1
+   312,PTTRY,2013-10-23,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,Indonesia,'69369Y105,2016-12-02 09:01:45.363000000,DEPO1
+   313,XPSSY,2013-09-16,DR Issuance,To Be Announced,DR Registration Limitation,Hong Kong,'42551P109,2016-12-02 09:01:45.363000000,DEPO1
+   314,SNKTY,2013-08-19,DR Cancellation,To Be Announced,Corporate Action - Capital Restructuring,United Kingdom,'45378C102,2016-12-02 09:01:45.363000000,DEPO1
+   315,BFNLY,2013-08-06,DR Issuance,To Be Announced,Suspension of Trading,South Africa,'09547U104,2016-12-02 09:01:45.363000000,DEPO1
+   316,PEXNY,2013-07-30,DR Issuance,To Be Announced,DR Registration Limitation,Thailand,'69364V106,2016-12-02 09:01:45.363000000,DEPO1
+   319,MYPSY,2013-04-02,DR Cancellation,To Be Announced,Suspension of Trading,Cyprus,'23283N109,2016-12-02 09:01:45.363000000,DEPO1
+   320,MYPSY,2013-04-02,DR Issuance,To Be Announced,Suspension of Trading,Cyprus,'23283N109,2016-12-02 09:01:45.363000000,DEPO1
+   321,SNKTY,2013-03-22,DR Issuance,To Be Announced,Corporate Action - Capital Restructuring,United Kingdom,'45378C102,2016-12-02 09:01:45.363000000,DEPO1
+   322,31PH,2013-03-06,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Egypt,'37953P103,2016-12-02 09:01:45.363000000,DEPO1
+   323,GLTD,2013-03-06,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Egypt,'37953P202,2016-12-02 09:01:45.363000000,DEPO1
+   325,OTMT,2013-03-06,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Egypt,'68555D206,2016-12-02 09:01:45.363000000,DEPO1
+   326,RYAAY,2013-02-05,DR Cancellation,To Be Announced,Certification Required,Ireland,'783513203,2016-12-02 09:01:45.363000000,DEPO1
+   327,SBER,2013-02-05,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Russia,'80585Y308,2016-12-02 09:01:45.363000000,DEPO1
+   328,38LF,2013-02-05,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Russia,'80585Y407,2016-12-02 09:01:45.363000000,DEPO1
+   332,PRND,2012-10-22,DR Cancellation,To Be Announced,Suspension of Trading,Taiwan,'74343C872,2016-12-02 09:01:45.363000000,DEPO1
+   333,PRND,2012-10-22,DR Issuance,To Be Announced,Suspension of Trading,Taiwan,'74343C872,2016-12-02 09:01:45.363000000,DEPO1
+   334,QCLSY,2012-09-28,DR Issuance,To Be Announced,Corporate Action,Germany,'37952W109,2016-12-02 09:01:45.363000000,DEPO1
+   335,PEPFY,2012-09-14,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,Switzerland,'716746102,2016-12-02 09:01:45.363000000,DEPO1
+   336,PWOPY,2012-09-13,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,France,'25490G108,2016-12-02 09:01:45.363000000,DEPO1
+   337,USSJY,2012-09-13,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,Japan,'90344T102,2016-12-02 09:01:45.363000000,DEPO1
+   339,SHFGY,2012-09-07,DR Issuance,To Be Announced,Corporate Action - Capital Restructuring,China,'819423104,2016-12-02 09:01:45.363000000,DEPO1
+   340,YMZBY,2012-09-07,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,Japan,'984632208,2016-12-02 09:01:45.363000000,DEPO1
+   342,HHKIY,2012-08-30,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,Japan,'434143202,2016-12-02 09:01:45.363000000,DEPO1
+   343,SHSGY,2012-08-30,DR Issuance,To Be Announced,12g3-2b Eligibility Is Under Review,Japan,'825386204,2016-12-02 09:01:45.363000000,DEPO1
+   344,96LE,2012-08-29,DR Issuance,To Be Announced,Tax Certification Form Required,Tunisia,'06675A108,2016-12-02 09:01:45.363000000,DEPO1
+   345,BIND,2012-08-29,DR Issuance,To Be Announced,Tax Certification Form Required,Tunisia,'06675A207,2016-12-02 09:01:45.363000000,DEPO1
+   346,96LE,2012-08-27,DR Cancellation,To Be Announced,Tax Certification Form Required,Tunisia,'06675A108,2016-12-02 09:01:45.363000000,DEPO1
+   347,BIND,2012-08-27,DR Cancellation,To Be Announced,Tax Certification Form Required,Tunisia,'06675A207,2016-12-02 09:01:45.363000000,DEPO1
+   348,ANEGY,2012-07-11,DR Issuance,To Be Announced,Corporate Action - Capital Restructuring,United Kingdom,'034196204,2016-12-02 09:01:45.363000000,DEPO1
+   349,88KZ,2012-06-25,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Jordan,'038460101,2016-12-02 09:01:45.363000000,DEPO1
+   350,APOD,2012-06-25,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Jordan,'038460200,2016-12-02 09:01:45.363000000,DEPO1
+   351,HSBJY,2012-06-25,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Jordan,'44183B102,2016-12-02 09:01:45.363000000,DEPO1
+   352,JDKWY,2012-06-25,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Jordan,'480702109,2016-12-02 09:01:45.363000000,DEPO1
+   353,GMDMY,2012-05-11,DR Issuance,To Be Announced,DR Registration Limitation,Brit. Virgin Islands,'368573101,2016-12-02 09:01:45.363000000,DEPO1
+   354,ITFMY,2012-05-11,DR Issuance,To Be Announced,DR Registration Limitation,Australia,'45951G108,2016-12-02 09:01:45.363000000,DEPO1
+   355,VEDG,2012-05-10,DR Cancellation,To Be Announced,Company Request,United Kingdom,'92241T102,2016-12-02 09:01:45.363000000,DEPO1
+   356,OPYGY,2012-03-13,DR Issuance,To Be Announced,Company Request,Russia,'73181P102,2016-12-02 09:01:45.363000000,DEPO1
+   358,HCXLY,2012-01-20,DR Issuance,To Be Announced,DR Registration Limitation,Bermuda,'43358P102,2016-12-02 09:01:45.363000000,DEPO1
+   359,PHXXY,2012-01-20,DR Issuance,To Be Announced,DR Registration Limitation,Cayman Islands,'71906Q108,2016-12-02 09:01:45.363000000,DEPO1
+   361,86CL,2011-05-19,DR Issuance,To Be Announced,Monitor of Ownership Limitations,Russia,'164145104,2016-12-02 09:01:45.363000000,DEPO1
+   362,62UM,2011-05-12,DR Cancellation,To Be Announced,Company Request,Guernsey,'29760G202,2016-12-02 09:01:45.363000000,DEPO1
+   363,62UM,2011-05-12,DR Issuance,To Be Announced,Company Request,Guernsey,'29760G202,2016-12-02 09:01:45.363000000,DEPO1
+   364,ETLN,2011-05-12,DR Cancellation,To Be Announced,Company Request,Guernsey,'29760G103,2016-12-02 09:01:45.363000000,DEPO1
+   365,ETLN,2011-05-12,DR Issuance,To Be Announced,Company Request,Guernsey,'29760G103,2016-12-02 09:01:45.363000000,DEPO1
+   366,KAR,2011-03-17,DR Cancellation,To Be Announced,Corporate Action - (M&A),India,'48576W102,2016-12-02 09:01:45.363000000,DEPO1
+   367,RFMFY,2011-03-17,DR Issuance,To Be Announced,Dividend Record Date Conflict,Philippines,'749929105,2016-12-02 09:01:45.363000000,DEPO1
+   369,SUBX,2011-02-23,DR Issuance,To Be Announced,Monitor of Ownership Limitations,India,'86428R202,2016-12-02 09:01:45.363000000,DEPO1
+   370,SUPH LX,2011-02-23,DR Issuance,To Be Announced,Monitor of Ownership Limitations,India,'869041103,2016-12-02 09:01:45.363000000,DEPO1
+   371,TAA,2011-02-23,DR Issuance,To Be Announced,Monitor of Ownership Limitations,India,'875389108,2016-12-02 09:01:45.363000000,DEPO1
+   372,TPCL,2011-02-23,DR Issuance,To Be Announced,Monitor of Ownership Limitations,India,'876566407,2016-12-02 09:01:45.363000000,DEPO1
+   374,TIG,2011-02-23,DR Issuance,To Be Announced,Monitor of Ownership Limitations,India,'Y90018105,2016-12-02 09:01:45.363000000,DEPO1
+   379,GRAN,2011-02-22,DR Issuance,To Be Announced,Monitor of Ownership Limitations,India,'388483208,2016-12-02 09:01:45.363000000,DEPO1
+   380,HVLX,2011-02-22,DR Issuance,To Be Announced,Monitor of Ownership Limitations,India,'43321P106,2016-12-02 09:01:45.363000000,DEPO1
+   383,IBL,2011-02-22,DR Issuance,To Be Announced,Monitor of Ownership Limitations,India,'455786103,2016-12-02 09:01:45.363000000,DEPO1
+   389,KLGX LX,2011-02-22,DR Issuance,To Be Announced,Monitor of Ownership Limitations,India,'498590108,2016-12-02 09:01:45.363000000,DEPO1
+   390,KRI LX,2011-02-22,DR Issuance,To Be Announced,Monitor of Ownership Limitations,India,'488472101,2016-12-02 09:01:45.363000000,DEPO1
+   391,LLD,2011-02-22,DR Issuance,To Be Announced,Monitor of Ownership Limitations,India,'539373100,2016-12-02 09:01:45.363000000,DEPO1
+   393,NCOP LX,2011-02-22,DR Issuance,To Be Announced,Monitor of Ownership Limitations,India,'65475R109,2016-12-02 09:01:45.363000000,DEPO1
+   394,SPIC,2011-02-22,DR Issuance,To Be Announced,Monitor of Ownership Limitations,India,'843613100,2016-12-02 09:01:45.363000000,DEPO1
+   395,AMKD,2011-02-18,DR Issuance,To Be Announced,Monitor of Ownership Limitations,India,'03233Q105,2016-12-02 09:01:45.363000000,DEPO1
+   396,ASHN LX,2011-02-18,DR Issuance,To Be Announced,Monitor of Ownership Limitations,India,'043810100,2016-12-02 09:01:45.363000000,DEPO1
+   397,CGVA,2011-02-18,DR Issuance,To Be Announced,Monitor of Ownership Limitations,India,'227120102,2016-12-02 09:01:45.363000000,DEPO1
+   398,CGVD,2011-02-18,DR Issuance,To Be Announced,Monitor of Ownership Limitations,India,'227120201,2016-12-02 09:01:45.363000000,DEPO1
+   402,EIDP,2011-02-18,DR Issuance,To Be Announced,Monitor of Ownership Limitations,India,'Y67828114,2016-12-02 09:01:45.363000000,DEPO1
+   403,SOL,2010-12-01,DR Issuance,To Be Announced,Certification Required,Brit. Virgin Islands,'75971T103,2016-12-02 09:01:45.363000000,DEPO1
+   404,RANGY,2010-11-23,DR Issuance,To Be Announced,Suspension of Trading,South Africa,'753009307,2016-12-02 09:01:45.363000000,DEPO1
+   405,TRCN,2010-11-15,DR Issuance,To Be Announced,Monitor of Ownership Limitations,Russia,'893556100,2016-12-02 09:01:45.363000000,DEPO1
+   406,SAGKY,2010-10-19,DR Cancellation,To Be Announced,Company Request,United Kingdom,'85255A100,2016-12-02 09:01:45.363000000,DEPO1
+   407,SAGKY,2010-10-19,DR Issuance,To Be Announced,Company Request,United Kingdom,'85255A100,2016-12-02 09:01:45.363000000,DEPO1
+   408,TKECY,2010-10-18,DR Issuance,To Be Announced,Company Request,Japan,'889109104,2016-12-02 09:01:45.363000000,DEPO1
+   409,NILSY,2010-10-12,DR Issuance,To Be Announced,Monitor of Ownership Limitations,Russia,'55315J102,2016-12-02 09:01:45.363000000,DEPO1
+   410,FARM LX,2010-08-02,DR Issuance,To Be Announced,Corporate Action - Stock Dividend,India,'30768A106,2016-12-02 09:01:45.363000000,DEPO1
+   411,GBLBY,2010-04-20,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Belgium,'399457100,2016-12-02 09:01:45.363000000,DEPO1
+   412,IVSBY,2010-03-09,DR Issuance,To Be Announced,Company Request,Sweden,'46145A106,2016-12-02 09:01:45.363000000,DEPO1
+   413,89VS,2009-10-01,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,The Netherlands,'98387E106,2016-12-02 09:01:45.363000000,DEPO1
+   415,RFMFY,2009-09-09,DR Issuance,To Be Announced,Corporate Action - Stock Dividend,Philippines,'749929105,2016-12-02 09:01:45.363000000,DEPO1
+   416,BLBD,2009-08-20,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Lebanon,'093688109,2016-12-02 09:01:45.363000000,DEPO1
+   417,SGOTY,2009-07-27,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,China,'818902108,2016-12-02 09:01:45.363000000,DEPO1
+   418,SGOTY,2009-07-27,DR Cancellation,To Be Announced,Monitor of Foreign Ownership Limitations,China,'818902108,2016-12-02 09:01:45.363000000,DEPO1
+   419,BOUYY,2009-07-21,DR Issuance,To Be Announced,Company Request,France,'102117108,2016-12-02 09:01:45.363000000,DEPO1
+   420,WKCMY,2009-05-14,DR Cancellation,To Be Announced,Company Request,Germany,'929805109,2016-12-02 09:01:45.363000000,DEPO1
+   421,WKCMY,2009-05-14,DR Issuance,To Be Announced,Company Request,Germany,'929805109,2016-12-02 09:01:45.363000000,DEPO1
+   423,ACMUY,2008-01-17,DR Issuance,To Be Announced,DR Registration Limitation,Japan,'004845202,2016-12-02 09:01:45.363000000,DEPO1
+   424,AEBZY,2007-11-23,DR Cancellation,To Be Announced,Certification Required,Turkey,'032523201,2016-12-02 09:01:45.363000000,DEPO1
+   428,98LM,2007-11-23,DR Cancellation,To Be Announced,Certification Required,Turkey,'900151408,2016-12-02 09:01:45.363000000,DEPO1
+   429,TIBD,2007-11-23,DR Cancellation,To Be Announced,Certification Required,Turkey,'900151507,2016-12-02 09:01:45.363000000,DEPO1
+   432,98KI,2007-11-23,DR Cancellation,To Be Announced,Certification Required,Turkey,'984848101,2016-12-02 09:01:45.363000000,DEPO1
+   433,YKBD,2007-11-23,DR Cancellation,To Be Announced,Certification Required,Turkey,'984848200,2016-12-02 09:01:45.363000000,DEPO1
+   434,ARCAY,2007-06-07,DR Issuance,To Be Announced,Company Request,The Netherlands,'03923E107,2016-12-02 09:01:45.363000000,DEPO1
+   435,81JK,2005-11-14,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Russia,'368287108,2016-12-02 09:01:45.363000000,DEPO1
+   436,BKVZY,2005-11-14,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Russia,'92915R101,2016-12-02 09:01:45.363000000,DEPO1
+   437,BXP,2005-10-28,DR Cancellation,To Be Announced,Monitor of Foreign Ownership Limitations,Bangladesh,'088579206,2016-12-02 09:01:45.363000000,DEPO1
+   438,BXP,2005-10-28,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Bangladesh,'088579206,2016-12-02 09:01:45.363000000,DEPO1
+   439,KQIPQ,2002-09-18,DR Issuance,To Be Announced,Local Shares - Non Transferrable,The Netherlands,'500750104,2016-12-02 09:01:45.363000000,DEPO1
+   440,RYAAY,2001-06-26,DR Issuance,To Be Announced,Monitor of Foreign Ownership Limitations,Ireland,'783513203,2016-12-02 09:01:45.363000000,DEPO1
