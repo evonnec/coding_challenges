@@ -139,3 +139,6 @@ dmypy.json
 
 #Jupyter Notebook
 .ipynb_checkpoints
+
+# OS + IDE
+.DS_Store
