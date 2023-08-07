@@ -1,7 +1,7 @@
 package scala
 
 class PlayerInventory {
-  var items: Vector[String] = Vector("lumber", "stone", "magic potion")
+  protected var items: Vector[String] = Vector("lumber", "stone", "magic potion")
     
   def addToInventory(item: String): Unit = {
     items = items :+ item

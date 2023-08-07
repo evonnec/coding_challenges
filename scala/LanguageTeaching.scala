@@ -4,7 +4,7 @@ import scala.collection.Iterable
 object LanguageTeaching {
   
   class LanguageStudent {
-    var languages: Iterable[String] = Iterable()
+    protected var languages: Iterable[String] = Iterable()
 
     def getLanguages(): Iterable[String] = {
       languages
@@ -25,7 +25,7 @@ object LanguageTeaching {
         false
       }
     }
-    
+
   }
   
   def main(args: Array[String]): Unit = {
