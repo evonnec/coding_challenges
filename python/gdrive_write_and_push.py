@@ -129,7 +129,6 @@ if __name__ == '__main__':
         "person1@my_domain.com", 
         "person2@my_domain.com", 
         "person3@my_domain.com", 
-        "evonne.cho@my_domain.com"
         ]
     for email_address in emails_to_send:
         email_report_stakeholders(
